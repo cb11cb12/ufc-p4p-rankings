@@ -11,19 +11,19 @@ const fighters = {
         'name': 'Kamaru Usman',
         'ranking': 1,
         'nickname': 'Nigerian Nightmare',
-        'weight class': 'Welterweight (170)'
+        'weightClass': 'Welterweight (170)'
     },
     'unknown': {
         'name': 'unknown',
         'ranking': 'unknown',
         'nickname': 'unknown',
-        'weight class': 'unknown'
+        'weightClass': 'unknown'
     },
     'alexander volkanovski': {
         'name': 'Alexander Volkanovski',
         'ranking': 2,
         'nickname': 'The Great',
-        'weight class': 'Featherweight (145)'
+        'weightClass': 'Featherweight (145)'
     }
 }
 
